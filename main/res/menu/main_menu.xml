@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:icon="@drawable/eye" android:title="TODO" app:showAsAction="always"/>
+    <item android:icon="@drawable/help" android:title="TODO" app:showAsAction="always"/>
+    <item android:icon="@drawable/email_read" android:title="TODO" app:showAsAction="always"/>
+
+</menu>
