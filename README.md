@@ -1,3 +1,12 @@
+# 📱 P1 TELAS NUBANK
+
+Este repositório tem como objetivo armazenar a prototipagem das telas do Nubank, desenvolvida no Android Studio.
+
+
+Aluno: Guilherme Ferreira da Costa
+
+R.A: 010623049
+
 ![tela1](https://github.com/user-attachments/assets/c31b9bfb-0317-43cf-9bfc-e5c9ed6ff007)
 ![tela2](https://github.com/user-attachments/assets/9a07d69b-9bbb-408b-884b-1dfb278cd01f)
 ![tela3](https://github.com/user-attachments/assets/a1b999e6-4e19-40f3-94ec-7795dc8a4b90)
